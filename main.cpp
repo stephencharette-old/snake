@@ -63,7 +63,7 @@ void Draw()
 		cout << "#";
 	cout << endl;
 	cout << "Score:" << score << endl;
-	cout << "Controlls:" << endl;
+	cout << "Controls:" << endl;
 	cout << "w = up" << endl;
 	cout << "a = left" << endl;
 	cout << "s = down" << endl;
